@@ -1,12 +1,13 @@
-h1, h2,h4{
+h1, h2, h4 {
     text-align: center;
     line-height: 10px;
 }
 
-table{
+table {
     width: 100%;
     border-color: red;
 }
-body{
+
+body {
     background-color: aliceblue;
 }
