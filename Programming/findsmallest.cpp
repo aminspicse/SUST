@@ -11,6 +11,8 @@ int main(){
     int n[size];
     printf("Enter %d Number: ", size);
 
+    // input n number and  check smallest or not
+
     for(int i=0; i<size; i++){
         scanf("%d", &n[i]);
 
